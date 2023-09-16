@@ -1,4 +1,5 @@
-package core;
+package companies;
+import core.Publisher;
 import vacancies.VacanciesFactory;
 
 public class Company {

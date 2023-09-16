@@ -4,7 +4,7 @@ import java.util.List;
 import applicants.Master;
 import applicants.Specialist;
 import applicants.Student;
-import core.Company;
+import companies.Company;
 import core.JobAgency;
 import core.Publisher;
 
